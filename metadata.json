@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Console",
+  "description": "Interactive J.A.R.V.I.S. Artificial Intelligence assistant inspired by Tony Stark's legendary companion, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
